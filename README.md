@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Daniel's github stats](https://github-readme-stats.vercel.app/api?username=kernelwhisperer&show_icons=true&theme=radical&hide_border=true&count_private=true)](https://github.com/kernelwhisperer/kernelwhisperer)
+
+[![Daniel's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kernelwhisperer&layout=compact&theme=radical&hide_border=true&count_private=true)](https://github.com/kernelwhisperer/kernelwhisperer)
+
+![Daniel's github profile visits](https://komarev.com/ghpvc/?username=kernelwhisperer&color=blueviolet)
